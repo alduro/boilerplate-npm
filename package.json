@@ -1,10 +1,10 @@
 {
   "name": "fcc-learn-npm-package-json",
+  "author": "Aldo Nievas",
   "dependencies": {
     "express": "^4.14.0"
   },
   "main": "server.js",
-  "author": "Aldo Nievas",
   "scripts": {
     "start": "node server.js"
   },
