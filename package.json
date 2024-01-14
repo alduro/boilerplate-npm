@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
         "author": "Aldo Nievas",
+	"description": "A project that does nothing but pass the FCC tests",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
