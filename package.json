@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-        "author": "Aldo Nievas",
+	"author": "Aldo Nievas",
 	"description": "A project that does nothing but pass the FCC tests",
 	"keywords": [
 		"freecodecamp"
@@ -8,6 +8,7 @@
 	"license": "MIT",
 	"version": "1.2.0",
 	"dependencies": {
+		"@freecodecamp/example": "^2.0.0",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
