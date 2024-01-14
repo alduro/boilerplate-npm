@@ -3,7 +3,7 @@
         "author": "Aldo Nievas",
 	"description": "A project that does nothing but pass the FCC tests",
 	"keywords": [
-		"freeCodeCamp"
+		"freecodecamp"
 	],
 	"dependencies": {
 		"express": "^4.14.0"
